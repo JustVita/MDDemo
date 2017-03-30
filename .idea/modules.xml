@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/test.iml" filepath="$PROJECT_DIR$/.idea/modules/test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/yunku-java-sdk/yunku-java-sdk.iml" filepath="$PROJECT_DIR$/.idea/modules/yunku-java-sdk/yunku-java-sdk.iml" group="yunku-java-sdk" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/yunku-java-sdk/yunku-java-sdk_main.iml" filepath="$PROJECT_DIR$/.idea/modules/yunku-java-sdk/yunku-java-sdk_main.iml" group="yunku-java-sdk" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/yunku-java-sdk/yunku-java-sdk_test.iml" filepath="$PROJECT_DIR$/.idea/modules/yunku-java-sdk/yunku-java-sdk_test.iml" group="yunku-java-sdk" />
+    </modules>
+  </component>
+</project>

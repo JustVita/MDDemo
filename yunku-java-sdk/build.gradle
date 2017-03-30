@@ -1,0 +1,26 @@
+group 'com.gokuai'
+version '1.0.0'
+
+apply plugin: 'java'
+apply plugin: 'maven'
+
+
+sourceCompatibility = 1.8
+
+repositories {
+    mavenCentral()
+}
+
+uploadArchives {
+    repositories {
+        mavenDeployer {
+            pom.groupId = 'com.gokuai'
+            pom.artifactId = 'yunku-java-sdk'
+            pom.version = '1.0.0'
+            repository(url: "file:///Users/gokuai/Movies/Test/yunku-java-sdk/repository")
+        }
+    }
+}
+dependencies {
+    testCompile group: 'junit', name: 'junit', version: '4.11'
+}
