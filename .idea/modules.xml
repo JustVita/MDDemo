@@ -3,6 +3,9 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/test.iml" filepath="$PROJECT_DIR$/.idea/modules/test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/yun-java-sdk-demo/yun-java-sdk-demo.iml" filepath="$PROJECT_DIR$/.idea/modules/yun-java-sdk-demo/yun-java-sdk-demo.iml" group="yun-java-sdk-demo" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/yun-java-sdk-demo/yun-java-sdk-demo_main.iml" filepath="$PROJECT_DIR$/.idea/modules/yun-java-sdk-demo/yun-java-sdk-demo_main.iml" group="yun-java-sdk-demo" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/yun-java-sdk-demo/yun-java-sdk-demo_test.iml" filepath="$PROJECT_DIR$/.idea/modules/yun-java-sdk-demo/yun-java-sdk-demo_test.iml" group="yun-java-sdk-demo" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/yunku-java-sdk/yunku-java-sdk.iml" filepath="$PROJECT_DIR$/.idea/modules/yunku-java-sdk/yunku-java-sdk.iml" group="yunku-java-sdk" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/yunku-java-sdk/yunku-java-sdk_main.iml" filepath="$PROJECT_DIR$/.idea/modules/yunku-java-sdk/yunku-java-sdk_main.iml" group="yunku-java-sdk" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/yunku-java-sdk/yunku-java-sdk_test.iml" filepath="$PROJECT_DIR$/.idea/modules/yunku-java-sdk/yunku-java-sdk_test.iml" group="yunku-java-sdk" />

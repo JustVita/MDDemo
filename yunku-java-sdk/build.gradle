@@ -17,7 +17,7 @@ uploadArchives {
             pom.groupId = 'com.gokuai'
             pom.artifactId = 'yunku-java-sdk'
             pom.version = '1.0.0'
-            repository(url: "file:///Users/gokuai/Movies/Test/test/yunku-java-sdk/repository")
+            repository(url: "file:///Users/gokuai/Movies/Test/development")
         }
     }
 }
