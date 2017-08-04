@@ -14,7 +14,7 @@ test
 
 <img src=https://repo.gokuai.cn/app/ImageResourceForMD/raw/master/YunkuCsharpSDK/install.jpeg alt="install" title="install" width="50%" height="50%"/>
 
-<img src=https://repo.gokuai.cn/app/ImageResourceForMD/raw/master/YunkuCsharpSDK/open%20CLI.jpg alt="open CLI" title="open CLI" width="50%" height="50%"/>
+<img src=https://repo.gokuai.cn/app/ImageResourceForMD/raw/master/YunkuCsharpSDK/open%20CLI.jpeg alt="open CLI" title="open CLI" width="50%" height="50%"/>
 
 ## error 
 <img src=https://repo.gokuai.cn/app/ImageResourceForMD/raw/master/YunkuCsharpSDK/CLI.jpg alt=“CLI" title=“CLI" width="50%"  height="50%”/>
